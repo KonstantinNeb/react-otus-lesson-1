@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "ES6",
+    "module": "CommonJS",
+    "strict": true,
+    "allowJs": false,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "noEmit": true,
+    "jsx": "react"
+  },
+  "include": ["./src", "scripts/calc"]
+}
