@@ -11,8 +11,6 @@ Basic configuration for the project on the master branch. What configurations yo
 - Jest
 - Precommit hooks / husky
 
-## Lesson 2:
-
 > CLI calculator
 
 - Typescript
